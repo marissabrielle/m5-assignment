@@ -47,7 +47,6 @@ else if(userChoice === 'scissors' && compChoice === 'rock') {
 
 else {
     alert(`Your entry wasn't valid.`)
-    //use retrun to break out of the function, break would break out of the loop
     return
 }
 }
